@@ -1,2 +1,2 @@
-# GameRep
-Rep for game
+# Ссылочка на ТГ
+@seismoslav
