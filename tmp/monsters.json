@@ -1,0 +1,67 @@
+{
+  "types": [
+    {
+      "name": "Padalshik",
+      "attack": 11,
+      "defence": 7,
+      "max_health": 30,
+      "damage": [1, 5]
+    },
+    {
+      "name": "Krotokris",
+      "attack": 9,
+      "defence": 9,
+      "max_health": 40,
+      "damage": [3, 4]
+    },
+    {
+      "name": "Wolf",
+      "attack": 15,
+      "defence": 7,
+      "max_health": 50,
+      "damage": [5, 10]
+    },
+    {
+      "name": "Goblin",
+      "attack": 8,
+      "defence": 8,
+      "max_health": 20,
+      "damage": [5, 7]
+    },
+    {
+      "name": "Yasher",
+      "attack": 14,
+      "defence": 6,
+      "max_health": 60,
+      "damage": [10, 15]
+    },
+    {
+      "name": "Shnig",
+      "attack": 10,
+      "defence": 10,
+      "max_health": 70,
+      "damage": [10, 15]
+    },
+    {
+      "name": "Ork",
+      "attack": 13,
+      "defence": 7,
+      "max_health": 100,
+      "damage": [20, 25]
+    },
+    {
+      "name": "Bolotojor",
+      "attack": 15,
+      "defence": 10,
+      "max_health": 150,
+      "damage": [17, 21]
+    },
+    {
+      "name": "Troll",
+      "attack": 17,
+      "defence": 10,
+      "max_health": 200,
+      "damage": [25, 30]
+    }
+  ]
+}
