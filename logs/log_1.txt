@@ -1,0 +1,153 @@
+You faced with Ork
+
+Your health: 100
+Chose your action: if 1 - Heal, else - Hit
+
+	Player attack Ork !
+	Attack modifier: 4
+		Roll: 6, good try!
+			Damage: 19. Ork health = 81/100
+		Roll: 2, bad try...
+		Roll: 6, good try!
+			Damage: 3. Ork health = 78/100
+		Roll: 4, bad try...
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 3, bad try...
+		Roll: 4, bad try...
+		Roll: 5, good try!
+			Damage: 23. Player health = 77/100
+		Roll: 3, bad try...
+
+Your health: 77
+Chose your action: if 1 - Heal, else - Hit
+
+	Player attack Ork !
+	Attack modifier: 4
+		Roll: 3, bad try...
+		Roll: 4, bad try...
+		Roll: 6, good try!
+			Damage: 7. Ork health = 71/100
+		Roll: 2, bad try...
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 6, good try!
+			Damage: 25. Player health = 52/100
+		Roll: 4, bad try...
+		Roll: 6, good try!
+			Damage: 21. Player health = 31/100
+		Roll: 6, good try!
+			Damage: 23. Player health = 8/100
+
+Your health: 8
+Chose your action: if 1 - Heal, else - Hit
+1
+Your current health: 38.0
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 3, bad try...
+		Roll: 4, bad try...
+		Roll: 2, bad try...
+		Roll: 1, bad try...
+
+Your health: 38.0
+Chose your action: if 1 - Heal, else - Hit
+1
+Your current health: 68.0
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 3, bad try...
+		Roll: 6, good try!
+			Damage: 24. Player health = 44.0/100
+		Roll: 1, bad try...
+		Roll: 2, bad try...
+
+Your health: 44.0
+Chose your action: if 1 - Heal, else - Hit
+
+	Player attack Ork !
+	Attack modifier: 4
+		Roll: 3, bad try...
+		Roll: 5, good try!
+			Damage: 18. Ork health = 53/100
+		Roll: 3, bad try...
+		Roll: 2, bad try...
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 2, bad try...
+		Roll: 3, bad try...
+		Roll: 1, bad try...
+		Roll: 4, bad try...
+
+Your health: 44.0
+Chose your action: if 1 - Heal, else - Hit
+
+	Player attack Ork !
+	Attack modifier: 4
+		Roll: 1, bad try...
+		Roll: 3, bad try...
+		Roll: 1, bad try...
+		Roll: 6, good try!
+			Damage: 14. Ork health = 39/100
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 3, bad try...
+		Roll: 3, bad try...
+		Roll: 2, bad try...
+		Roll: 2, bad try...
+
+Your health: 44.0
+Chose your action: if 1 - Heal, else - Hit
+
+	Player attack Ork !
+	Attack modifier: 4
+		Roll: 1, bad try...
+		Roll: 6, good try!
+			Damage: 17. Ork health = 22/100
+		Roll: 1, bad try...
+		Roll: 5, good try!
+			Damage: 16. Ork health = 6/100
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 1, bad try...
+		Roll: 3, bad try...
+		Roll: 5, good try!
+			Damage: 24. Player health = 20.0/100
+		Roll: 1, bad try...
+
+Your health: 20.0
+Chose your action: if 1 - Heal, else - Hit
+
+	Player attack Ork !
+	Attack modifier: 4
+		Roll: 2, bad try...
+		Roll: 1, bad try...
+		Roll: 1, bad try...
+		Roll: 2, bad try...
+
+Ork is attacking you!
+	Ork attack Player !
+	Attack modifier: 4
+		Roll: 2, bad try...
+		Roll: 2, bad try...
+		Roll: 5, good try!
+			Damage: 24. Player health = -4.0/100
+		Player is dead...
+You die...
+Game over
+
+Process finished with exit code 0
