@@ -20,7 +20,7 @@ class Game:
         with open('./tmp/monsters.json') as file:
             monster_dict = json.load(file)
             for i in range(amount):
-                random_index = randint(0, len(monster_dict['types']))
+                random_index = randint(0, len(monster_dict['types'])-1)
                 current_creature = Game._dict_to_creature(monster_dict['types'][random_index])
                 creatures.append(current_creature)
         return creatures
